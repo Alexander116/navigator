@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.5">
+    <bounds minlat="55.648978" minlon="52.270686" maxlat="55.780219" maxlon="52.54557"/>
+    <node id="191749240" lat="55.7420117" lon="52.3992173" version="28">
+        <tag k="addr:country" v="RU"/>
+        <tag k="addr:region" v="Татарстан"/>
+        <tag k="admin_level" v="6"/>
+        <tag k="int_name" v="Naberezhnye Chelny"/>
+        <tag k="name" v="Набережные Челны"/>
+        <tag k="name:ar" v="نابريجناي تشلني"/>
+        <tag k="name:az" v="Naberejnıye Çelnı"/>
+        <tag k="name:ba" v="Яр Саллы"/>
+        <tag k="name:be" v="Наберажныя Чалны"/>
+        <tag k="name:bg" v="Набережние Челни"/>
+        <tag k="name:ca" v="Nàberejnie_Txelní"/>
+        <tag k="name:cs" v="Naberežnyje Čelny"/>
+        <tag k="name:cv" v="Чаллă"/>
+        <tag k="name:de" v="Nabereschnyje Tschelny"/>
+        <tag k="name:en" v="Naberezhnye Chelny"/>
+        <tag k="name:es" v="Náberezhnye Chelny"/>
+        <tag k="name:et" v="Naberežnõje Tšelnõ"/>
+        <tag k="name:fa" v="نابرژنیه چلنی"/>
+        <tag k="name:fi" v="Naberežnyje Tšelny"/>
+        <tag k="name:fr" v="Naberejnye Tchelny"/>
+        <tag k="name:hr" v="Naberežnye Čelny"/>
+        <tag k="name:it" v="Naberežnye Čelny"/>
+        <tag k="name:ja" v="ナベレジヌイェ・チェルヌイ"/>
+        <tag k="name:ka" v="ნაბერეჟნიე ჩელნი"/>
+        <tag k="name:ko" v="나베레즈니예첼니"/>
+        <tag k="name:lt" v="Naberežnyje Čelnai"/>
+        <tag k="name:lv" v="Naberežnije Čelni"/>
+        <tag k="name:nl" v="Naberezjnye Tsjelny"/>
+        <tag k="name:no" v="Naberezjnyje Tsjelny"/>
+        <tag k="name:pl" v="Nabierieżnyje Czełny"/>
+        <tag k="name:pt" v="Naberejnye Chelny"/>
+        <tag k="name:ro" v="Naberejnîe Celnî"/>
+        <tag k="name:ru" v="Набережные Челны"/>
+        <tag k="name:sr" v="Набережније Челни"/>
+        <tag k="name:sv" v="Naberezjnyje Tjelny"/>
+        <tag k="name:tr" v="Yarçallı"/>
+        <tag k="name:tt" v="Яр Чаллы"/>
+        <tag k="name:uk" v="Набережні Човни"/>
+        <tag k="name:zh" v="卡马河畔切尔尼"/>
+        <tag k="official_status" v="ru:город"/>
+        <tag k="old_name" v="Брежнев"/>
+        <tag k="place" v="city"/>
+        <tag k="population" v="524444"/>
+        <tag k="population:date" v="2015-01-01"/>
+        <tag k="wikipedia" v="ru:Набережные Челны"/>
+    </node>
+    <node id="206048858" lat="55.6881545" lon="52.2851221" version="4">
+        <tag k="created_by" v="JOSM"/>
+    </node>
+    <node id="206048865" lat="55.6846128" lon="52.2853109" version="2">
+        <tag k="created_by" v="JOSM"/>
+    </node>
+    <node id="206048870" lat="55.6796772" lon="52.2813128" version="8"/>
+    <node id="206048891" lat="55.6578985" lon="52.2994573" version="3"/>
+    <node id="206048926" lat="55.6771816" lon="52.3808789" version="3"/>
+    <node id="206048932" lat="55.6704228" lon="52.3656527" version="3"/>
+    <node id="206048937" lat="55.6676374" lon="52.3443589" version="2">
+        <tag k="created_by" v="JOSM"/>
+    </node>
+    <node id="206048943" lat="55.6634754" lon="52.3283973" version="5"/>
+    <node id="206048949" lat="55.7205358" lon="52.2626065" version="3"/>
+    <node id="206048960" lat="55.7090985" lon="52.2745392" version="2">
+        <tag k="created_by" v="JOSM"/>
+    </node>
+    <node id="206048966" lat="55.693332" lon="52.2818262" version="5"/>
+    <node id="206048972" lat="55.6901478" lon="52.283826" version="4">
+        <tag k="created_by" v="JOSM"/>
+    </node>
+    <node id="206048978" lat="55.7580326" lon="52.2417124" version="7"/>
+    <node id="206048983" lat="55.7465205" lon="52.2457896" version="4"/>
+    <node id="206048996" lat="55.7245116" lon="52.2588579" version="2">
+        <tag k="created_by" v="JOSM"/>
+    </node>
+    <node id="206049012" lat="55.7915564" lon="52.2451985" version="5"/>
+    <node id="206049018" lat="55.7761919" lon="52.2418584" version="4"/>
+    <node id="206049026" lat="55.764642" lon="52.2417795" version="3"/>
+    <node id="206049504" lat="55.6882599" lon="52.4253339" version="3"/>
+    <node id="206049510" lat="55.6818538" lon="52.4060841" version="2">
+        <tag k="created_by" v="JOSM"/>
+    </node>
+    <node id="206049516" lat="55.678702" lon="52.387744" version="3"/>
+    <node id="206049518" lat="55.7257786" lon="52.4942562" version="4"/>
+    <node id="206049523" lat="55.6953829" lon="52.4383024" version="4"/>
+    <node id="223510968" lat="55.6859408" lon="52.484919" version="12"/>
+    <node id="223510971" lat="55.6778243" lon="52.5005648" version="9"/>
+    <node id="223510972" lat="55.6754858" lon="52.506192" version="11"/>
+    <node id="223510973" lat="55.6738173" lon="52.5120334" version="10"/>
+    <node id="223510974" lat="55.673218" lon="52.5176724" version="8"/>
+    <node id="223510975" lat="55.6727143" lon="52.5368899" version="8"/>
+    <node id="223510977" lat="55.6716854" lon="52.5431971" version="7"/>
+    <node id="223510978" lat="55.669615" lon="52.5496911" version="6"/>
+    <node id="223510980" lat="55.6679375" lon="52.5545346" version="8"/>
+    <node id="223510981" lat="55.6653949" lon="52.5631483" version="7"/>
+    <node id="223510984" lat="55.6649704" lon="52.5641517" version="8"/>
+    <node id="223510985" lat="55.6630032" lon="52.5677347" version="8"/>
+    <node id="223510987" lat="55.6622384" lon="52.5694779" version="8"/>
+    <node id="251071967" lat="55.6720038" lon="52.4593044" version="7"/>
+    <node id="251071968" lat="55.7109176" lon="52.5310285" version="4"/>
+    <node id="251071970" lat="55.6916908" lon="52.494678" version="4"/>
+    <node id="251071971" lat="55.692874" lon="52.4966773" version="3"/>
+    <node id="251071977" lat="55.6928839" lon="52.4959542" version="4"/>
+    <node id="251072000" lat="55.6921645" lon="52.494647" version="5"/>
+    <node id="251514472" lat="55.7261236" lon="52.5071378" version="5"/>
+    <node id="251514473" lat="55.7258215" lon="52.5054995" version="6"/>
+    <node id="251514474" lat="55.7268259" lon="52.5036626" version="5"/>
+    <node id="251514475" lat="55.7270511" lon="52.5035881" version="5"/>
+    <node id="251514476" lat="55.7273003" lon="52.5035949" version="7"/>
+    <node id="251514477" lat="55.7484911" lon="52.467913" version="7"/>
+    <node id="251514478" lat="55.7484087" lon="52.4673568" version="9"/>
+    <node id="251514479" lat="55.754" lon="52.429" version="9"/>
+    <node id="251514480" lat="55.7493852" lon="52.4655367" version="7"/>
+    <node id="251514481" lat="55.7496814" lon="52.4656421" version="8"/>
+    <node id="251514483" lat="55.7442282" lon="52.4099266" version="5"/>
+    <node id="251514484" lat="55.7437031" lon="52.4093782" version="4"/>
+    <node id="251514485" lat="55.7369215" lon="52.4058066" version="3"/>
+    <node id="251514486" lat="55.7357099" lon="52.4044597" version="2"/>
+    <node id="251514487" lat="55.759" lon="52.421" version="6"/>
+    <node id="251514488" lat="55.7124555" lon="52.3649338" version="3"/>
+    <node id="251514489" lat="55.7115369" lon="52.3637594" version="4"/>
+    <node id="251514491" lat="55.7040454" lon="52.3456958" version="6"/>
+    <node id="251514493" lat="55.7017947" lon="52.3290893" version="3"/>
+    <node id="251514496" lat="55.6940315" lon="52.3103563" version="8"/>
+    <node id="251514498" lat="55.6864684" lon="52.3119228" version="7"/>
+    <node id="251514502" lat="55.753" lon="52.41" version="6"/>
+    <node id="251514503" lat="55.6788107" lon="52.3006469" version="7"/>
+    <node id="251514504" lat="55.6781138" lon="52.3008229" version="6"/>
+    <node id="1041527266" lat="55.748" lon="52.418" version="6">
+        <tag k="highway" v="traffic_signals"/>
+    </node>
+    <node id="251514505" lat="55.6774927" lon="52.3006397" version="7"/>
+    <way id="90512079" version="3">
+        <nd ref="251514502"/>
+        <nd ref="1042490282"/>
+        <nd ref="251514485"/>
+        <nd ref="1042490233"/>
+        <nd ref="223510972"/>
+        <nd ref="1042491491"/>
+        <nd ref="1042490714"/>
+        <nd ref="1042488332"/>
+        <nd ref="251514476"/>
+        <nd ref="1042491226"/>
+        <nd ref="1042488848"/>
+        <nd ref="1042487973"/>
+        <nd ref="1050049540"/>
+        <nd ref="1039027760"/>
+        <nd ref="1039027119"/>
+        <nd ref="1039027835"/>
+        <nd ref="1039027425"/>
+        <nd ref="1039026642"/>
+        <nd ref="1039026775"/>
+        <nd ref="1039026167"/>
+        <nd ref="1039026898"/>
+        <nd ref="1039026785"/>
+        <nd ref="1039026940"/>
+        <nd ref="1039026669"/>
+        <nd ref="1039026219"/>
+        <nd ref="1039027506"/>
+        <nd ref="1039026772"/>
+        <nd ref="1039026896"/>
+        <nd ref="1039026559"/>
+        <nd ref="1039027103"/>
+        <nd ref="1039027058"/>
+        <nd ref="1039027343"/>
+        <nd ref="1039027397"/>
+        <nd ref="1039026564"/>
+        <tag k="name" v="ВЛ Заводская - КБК 110кВ"/>
+        <tag k="power" v="line"/>
+    </way>
+    <way id="90512084" version="1">
+        <nd ref="251514473"/>
+        <nd ref="1050049323"/>
+        <nd ref="1050049479"/>
+        <nd ref="251514476"/>
+        <nd ref="1050049272"/>
+        <nd ref="1050049435"/>
+        <nd ref="1050049219"/>
+        <nd ref="1050049378"/>
+        <nd ref="1050049476"/>
+        <nd ref="1050049257"/>
+        <nd ref="1050049420"/>
+        <nd ref="1050049204"/>
+        <nd ref="1050049217"/>
+        <nd ref="1050049375"/>
+        <nd ref="1050049535"/>
+        <nd ref="1050049321"/>
+        <nd ref="1050049537"/>
+        <tag k="leisure" v="ice_rink"/>
+        <tag k="seasonal" v="yes"/>
+    </way>
+    <way id="41424631" version="9">
+        <nd ref="251514487"/>0
+        <nd ref="206048932"/>
+        <nd ref="206048865"/>
+        <nd ref="206049018"/>
+        <nd ref="251514502"/>1
+        <tag k="foot" v="no"/>
+        <tag k="highway" v="primary_link"/>
+        <tag k="oneway" v="yes"/>
+        <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="41424636" version="6">
+        <nd ref="251514487"/>0
+        <nd ref="251514479"/>2
+        <tag k="foot" v="no"/>
+        <tag k="oneway" v="yes"/>
+        <tag k="highway" v="primary_link"/>
+        <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="41424636" version="6">
+        <nd ref="251514479"/>2
+        <nd ref="251514502"/>1
+        <tag k="foot" v="no"/>
+        <tag k="oneway" v="yes"/>
+        <tag k="highway" v="primary_link"/>
+        <tag k="surface" v="asphalt"/>
+    </way>
+    <way id="90512088" version="5">
+        <nd ref="251514502"/>1
+        <nd ref="1041527266"/>3
+        <tag k="cables" v="6"/>
+        <tag k="circuits" v="2"/>
+        <tag k="power" v="line"/>
+        <tag k="highway" v="primary_link"/>
+        <tag k="voltage" v="110000"/>
+        <tag k="wires" v="single"/>
+    </way>
+    <way id="90512100" version="3">
+        <nd ref="251514479"/>2
+        <nd ref="1041527266"/>3
+        <tag k="cables" v="6"/>
+        <tag k="circuits" v="2"/>
+        <tag k="power" v="line"/>
+        <tag k="voltage" v="110000"/>
+        <tag k="highway" v="primary_link"/>
+        <tag k="wires" v="double"/>
+    </way>
+    <way id="90512101" version="2">
+        <nd ref="1042488406"/>
+        <nd ref="1042488363"/>
+        <nd ref="1042491545"/>
+        <nd ref="1042489374"/>
+        <nd ref="1042491084"/>
+        <nd ref="1042486890"/>
+        <nd ref="1042489881"/>
+        <nd ref="1042487619"/>
+        <nd ref="1042486900"/>
+        <nd ref="1042488375"/>
+        <nd ref="1042491049"/>
+        <nd ref="1042486878"/>
+        <nd ref="1042487132"/>
+        <nd ref="1042486701"/>
+        <nd ref="1042488837"/>
+        <nd ref="1042486664"/>
+        <nd ref="1042486309"/>
+        <nd ref="1042487567"/>
+        <nd ref="1042488220"/>
+        <nd ref="1042490419"/>
+        <nd ref="1042489066"/>
+        <nd ref="1042486834"/>
+        <tag k="power" v="line"/>
+        <tag k="cables" v="6"/>
+        <tag k="voltage" v="110000"/>
+        <tag k="circuits" v="2"/>
+    </way>
+</osm>
