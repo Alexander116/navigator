@@ -1,5 +1,5 @@
 #!/bin/sh
-NAME="graph-parser"
+NAME="navigator"
 GH_HOME=$(readlink -e "$(dirname "$0")"/..)
 CONF=$GH_HOME/conf/MapParser.properties
 JAR="$GH_HOME/$NAME.jar"

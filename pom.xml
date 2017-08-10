@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>taximaxim</groupId>
-    <artifactId>GraphParser</artifactId>
+    <artifactId>navigator</artifactId>
     <version>1.0</version>
 
     <build>
@@ -17,7 +17,7 @@
                     <execution>
                         <id>default-cli</id>
                         <configuration>
-                            <finalName>graph-parser</finalName>
+                            <finalName>navigator</finalName>
                             <descriptorRefs>
                                 <descriptorRef>jar-with-dependencies</descriptorRef>
                             </descriptorRefs>
@@ -31,7 +31,7 @@
                     <execution>
                         <id>distr</id>
                         <configuration>
-                            <finalName>graph-parser</finalName>
+                            <finalName>navigator</finalName>
                             <descriptors>
                                 <descriptor>src/main/assembly/tar.gz.xml</descriptor>
                             </descriptors>
