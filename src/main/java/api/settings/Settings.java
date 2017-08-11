@@ -47,7 +47,28 @@ public class Settings {
      */
     public Settings() {
         setConfig();
+        initDefSpeedMap();
         setSpeedMap();
+    }
+
+    private void initDefSpeedMap() {
+        Properties prop = new Properties();
+        prop.put("motorway",90);
+        prop.put("motorway_link",90);
+        prop.put("trunk",90);
+        prop.put("trunk_link",90);
+        prop.put("primary",90);
+        prop.put("primary_link",90);
+        prop.put("tertiary",90);
+        prop.put("tertiary_link",90);
+        prop.put("unclassified",90);
+        prop.put("residential",90);
+        prop.put("living_street",90);
+        prop.put("service",90);
+        prop.put("road",90);
+        prop.put("track",90);
+        prop.put("ferry",90);
+        speedMap = new SafeProperties(prop);
     }
 
     public List<Coordinates> getBlockPoints(){
